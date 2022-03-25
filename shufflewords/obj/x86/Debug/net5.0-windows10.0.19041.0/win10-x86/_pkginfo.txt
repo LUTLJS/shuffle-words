@@ -1,0 +1,1 @@
+C:\Users\Administrator\source\repos\shufflewords\shufflewords\bin\x86\Debug\net5.0-windows10.0.19041.0\win10-x86\AppPackages\shufflewords_1.0.0.0_x86_Debug_Test\shufflewords_1.0.0.0_x86_Debug.msix

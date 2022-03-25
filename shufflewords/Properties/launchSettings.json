@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "shufflewords (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "shufflewords (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
